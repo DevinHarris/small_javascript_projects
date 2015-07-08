@@ -1,0 +1,1 @@
+Just a small respository for small code I've written while experimenting with and learning JavaScript.
